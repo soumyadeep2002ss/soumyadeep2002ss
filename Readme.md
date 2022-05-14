@@ -62,7 +62,7 @@
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Soumyadeep Pal GitHub style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:shoumodeep.pal@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt=Soumyadeep Pal gmail style="margin-bottom: px;" />
+<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?" alt=Soumyadeep Pal gmail style="margin-bottom: px;" />
 </a>
 
 <a href="https://www.instagram.com/iamsoumyadeep24/" target="_blank">
