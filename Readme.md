@@ -62,7 +62,7 @@
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Soumyadeep Pal GitHub style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:shoumodeep.pal@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?" alt=Soumyadeep Pal gmail style="margin-bottom: px;" />
+<img src=https://img.shields.io/badge/-GMAIL-grey" alt=Soumyadeep Pal gmail style="margin-bottom: 5px" />
 </a>
 
 <a href="https://www.instagram.com/iamsoumyadeep24/" target="_blank">
@@ -76,9 +76,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="mailto:shoumodeep.pal@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-GMAIL-grey" alt=Soumyadeep Pal gmail style="margin-bottom: 5px;" />
-</a>
+   <a href="https://github.com/soumyadeep2002ss"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soumyadeep2002ss&custom_title=soumyadeep2002ss's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ---
