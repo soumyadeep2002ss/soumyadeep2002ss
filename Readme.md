@@ -46,7 +46,7 @@
 <a href="https://github.com/soumyadeep2002ss/Realtime-Canvas">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=Realtime-Canvas&show_icons=true&theme=tokyonight">
 </a>
-<a href="[https://github.com/soumyadeep2002ss/Realtime-Canvas](https://github.com/soumyadeep2002ss/PIANOTRON)">
+<a href="https://github.com/soumyadeep2002ss/PIANOTRON">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=PIANOTRON&show_icons=true&theme=tokyonight">
  </a>
  <a href="[https://github.com/soumyadeep2002ss/Realtime-Canvas](https://github.com/soumyadeep2002ss/Scheduler)">
