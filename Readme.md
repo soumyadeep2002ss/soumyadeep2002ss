@@ -49,16 +49,16 @@
 <a href="https://github.com/soumyadeep2002ss/PIANOTRON">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=PIANOTRON&show_icons=true&theme=tokyonight">
  </a>
- <a href="[https://github.com/soumyadeep2002ss/Realtime-Canvas](https://github.com/soumyadeep2002ss/Scheduler)">
+ <a href="https://github.com/soumyadeep2002ss/Scheduler">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=Scheduler&show_icons=true&theme=tokyonight"> 
  </a>
-  <a href="[https://github.com/soumyadeep2002ss/Realtime-Canvas](https://github.com/soumyadeep2002ss/Modern-React-Login-Register-page)">
+  <a href="https://github.com/soumyadeep2002ss/Modern-React-Login-Register-page">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=Modern-React-Login-Register-page&show_icons=true&theme=tokyonight">
  </a>
-<a href="[https://github.com/soumyadeep2002ss/Realtime-Canvas](https://github.com/soumyadeep2002ss/NewsGrabber)">
+<a href="https://github.com/soumyadeep2002ss/NewsGrabber">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=NewsGrabber&show_icons=true&theme=tokyonight">
  </a>
-<a href="[https://github.com/soumyadeep2002ss/Realtime-Canvas](https://github.com/soumyadeep2002ss/I_AM_ENCRYPTO)">
+<a href="https://github.com/soumyadeep2002ss/I_AM_ENCRYPTO">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadeep2002ss&repo=I_AM_ENCRYPTO&show_icons=true&theme=tokyonight">
 </a>
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
