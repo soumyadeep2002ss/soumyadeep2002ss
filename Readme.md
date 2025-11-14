@@ -7,8 +7,7 @@
 - Global Rank: 85 in TCS Codevita Season 10 Round 2 👨‍💻
 - 3 STAR AT CODECHEF | Current Rating 1717 ✨
 - Global Rank: 439 CodeChef January Challenge 2021 Division 3 🎓
-- MERN Stack Developer 🌐
-- CSE, 2023 👨‍💻
+- MERN Stack Developer �
 - **Hobbies**: 📷 and 🎮
 - Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/soumyadeep-pal-b3421b189) !
 
@@ -101,3 +100,4 @@
 ![Profile views](https://gpvc.arturio.dev/soumyadeep2002ss)
 
 Leave a ⭐ [here](https://github.com/soumyadeep2002ss/soumyadeep2002ss) if you like 😁
+
